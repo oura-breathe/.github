@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="https://breatheoura.com/" target="_blank">
-        <img width="30%" src="./Oura_Logo.png" alt="Oura logo">
+        <img width="30%" src="https://github.com/oura-breathe/.github/blob/main/profile/Oura_Logo.png" alt="Oura logo">
         <h1 align="center">Oura</h1>
     </a>
 </p>
@@ -12,14 +12,6 @@
 Have a look at the [Oura website](https://breatheoura.com/) to learn more about the device. 
 
 ### Current Projects
+- **[AQ_Device_Web_Server](https://github.com/oura-breathe/AQ_Device_Web_Server):** ESP32 web server for the device. Connects the device to user's wifi and sends sensor values to Firebase.
+- **[Oura_Web_App](https://github.com/oura-breathe/Oura_Web_App):** Web app made using Oura. Includes device description and dashboard for viewing air quality data
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
